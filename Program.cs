@@ -6,5 +6,7 @@
         {
             Console.WriteLine("Hello, TeamCity!");
         }
+
+        static void ExtraMethodForCommit()
     }
 }
